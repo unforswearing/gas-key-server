@@ -16,7 +16,7 @@
    - Copy url. This will be used in the KeyServer.js file
  - Add the KeyServer.js file to a separate apps script project
    that will access the keyserver created above
- - In KeyServer.js, add the copied url to the 'ks.severUrl' value
+ - In KeyServer.js, add the copied url to the 'ks.serverUrl' value
    - between 'ks.authToken' and 'ks.options'
  - You can use the function below to test the key server.
    - Replace the value of 'token' to use your generated key
